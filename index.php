@@ -1,1 +1,2 @@
-require './Think/Controller/index.php';
+<?php
+echo 11111111111111;
